@@ -1,4 +1,4 @@
-<p>**Olá 😊, eu sou a Giulia**<p>
+<p>##Olá 😊, eu sou a Giulia##<p>
 
 <p>
 Sou estudante de Desenvolvimento Full Stack e estou em fase de construção da minha base técnica. Estou aprendendo a enxergar a aplicação como um todo, entendendo tanto o que aparece na tela quanto o que acontece por trás dela.
