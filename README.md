@@ -1,6 +1,6 @@
-<h1 align="center">Olá 😊, eu sou a Giulia </h1>
+<h1>Olá 😊, eu sou a Giulia </h1>
 
-<p align="center">
+<p>
 Sou estudante de Desenvolvimento Full Stack e estou em fase de construção da minha base técnica. Estou aprendendo a enxergar a aplicação como um todo, entendendo tanto o que aparece na tela quanto o que acontece por trás dela.
 Gosto de ver a evolução acontecendo no código. Não me atraem soluções rápidas ou coisas feitas só para “funcionar”. Prefiro aprender com calma, organizar bem a lógica e deixar cada projeto um pouco melhor que o anterior.
   
