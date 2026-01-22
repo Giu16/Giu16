@@ -1,8 +1,7 @@
 <h>**Olá 😊, eu sou a Giulia**<h>
 
 <p>
-Sou estudante de Desenvolvimento Full Stack e estou em fase de construção da minha base técnica. Estou aprendendo a enxergar a aplicação como um todo, entendendo tanto o que aparece na tela quanto o que acontece por trás dela.
-Gosto de ver a evolução acontecendo no código. Não me atraem soluções rápidas ou coisas feitas só para “funcionar”. Prefiro aprender com calma, organizar bem a lógica e deixar cada projeto um pouco melhor que o anterior.
+Sou estudante de Desenvolvimento Full Stack e estou em fase de construção da minha base técnica. Estou aprendendo a enxergar a aplicação como um todo, a evolução acontecendo no código. 
   
 Este GitHub é meu espaço de prática real. Aqui ficam meus estudos, testes e tudo que faz parte do meu crescimento como desenvolvedora. Não é sobre mostrar perfeição, é sobre mostrar processo.
 Do front ao back, cada repositório representa uma etapa da minha formação como Full Stack.
