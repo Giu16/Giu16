@@ -1,6 +1,6 @@
 # Olá, 😊  
 
-Sou a Giulia Carneiro, **Engenheira de Software** em formação, com foco em:
+Sou a Giulia Carneiro, **Desenvolvedora Full Stack** em formação, com foco em:
 
 ---
 
