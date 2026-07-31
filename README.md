@@ -16,7 +16,7 @@
 
 <p align="center">
   <a href="mailto:giuliacarneiroc@gmail.com"><img src="https://img.shields.io/badge/E--mail-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="E-mail"/></a>
-  <a href="https://www.linkedin.com/in/giulia-carneiro"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/giulia-carneiro"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </p>
 
 ---
