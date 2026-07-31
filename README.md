@@ -27,10 +27,6 @@
 
 <b>💼 Trabalho com</b><br/>
 <img src="https://skillicons.dev/icons?i=html,css,js,git,github&theme=dark" alt="trabalho com"/>
-
-<br/><br/>
-
-<b>📚 Aprendendo</b><br/>
 <img src="https://skillicons.dev/icons?i=react,ts,nodejs,express,mysql,mongodb&theme=dark&perline=6" alt="aprendendo"/>
 
 </div>
