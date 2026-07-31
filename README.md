@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Dispon%C3%ADvel%20para%20freelance%20%C2%B7%20Full%20Stack-238636?style=for-the-badge" alt="Disponível para freelance"/>
+  <img src="https://img.shields.io/badge/Dispon%C3%ADvel%20para%20freelancer%20%C2%B7%20Full%20Stack-238636?style=for-the-badge" alt="Disponível para freelance"/>
 </p>
 
 <p align="center">
@@ -26,6 +26,7 @@
 <div align="center">
 
 <b>💼 Trabalho com</b><br/>
+
 <img src="https://skillicons.dev/icons?i=html,css,js,git,github&theme=dark" alt="trabalho com"/>
 <img src="https://skillicons.dev/icons?i=react,ts,nodejs,express,mysql,mongodb&theme=dark&perline=6" alt="aprendendo"/>
 
