@@ -35,11 +35,6 @@
 ---
 
 <p align="center">
-  <b>Aberta a projetos freelance e oportunidades.</b><br/>
-  <sub>Me chama no e-mail ou LinkedIn — respondo rápido.</sub>
-</p>
-
-<p align="center">
   <sub><i>Cada repositório aqui é uma etapa da minha formação.</i></sub>
 </p>
 
