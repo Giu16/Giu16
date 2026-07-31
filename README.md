@@ -1,29 +1,20 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:2563EB&height=190&section=header&text=Giulia%20Carneiro&fontColor=ffffff&fontSize=50&fontAlignY=36&desc=Full-Stack%20Developer&descSize=18&descAlignY=56&animation=fadeIn" width="100%"/>
 
-<div align="center">
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giulia-carneiro)
+[![Gmail](https://img.shields.io/badge/giuliacarneiroc@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:giuliacarneiroc@gmail.com)
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&pause=1200&color=A78BFA&center=true&vCenter=true&width=600&lines=Desenvolvedora+Full+Stack;Do+front+ao+back;Processo+%3E+perfei%C3%A7%C3%A3o" alt="typing"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&pause=1200&color=A78BFA&width=600&lines=Desenvolvedora+Full+Stack;Do+front+ao+back;Processo+%3E+perfei%C3%A7%C3%A3o" alt="typing"/>
 
 <img src="https://komarev.com/ghpvc/?username=Giu16&label=Visitas+no+perfil&color=8b5cf6&style=flat" alt="views"/>
 
-</div>
+# Olá 😊, eu sou a Giulia
 
-<h1 align="center">Olá 😊, eu sou a Giulia</h1>
-
-<p align="center">
 Sou estudante de Desenvolvimento Full Stack e estou em fase de construção da minha base técnica. Estou aprendendo a enxergar a aplicação como um todo, a evolução acontecendo no código.
-</p>
 
-<p align="center">
-Este GitHub é meu espaço de prática real. Aqui ficam meus estudos, testes e tudo que faz parte do meu crescimento como desenvolvedora. Não é sobre mostrar perfeição, é sobre mostrar processo.<br/>
+Este GitHub é meu espaço de prática real. Aqui ficam meus estudos, testes e tudo que faz parte do meu crescimento como desenvolvedora. Não é sobre mostrar perfeição, é sobre mostrar processo.
 Do front ao back, cada repositório representa uma etapa da minha formação como Full Stack.
-</p>
-
-<br/>
 
 ## 💻 Tecnologias que uso:
-
-<div align="center">
 
 ### 🎨 Front-end
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -51,39 +42,6 @@ Do front ao back, cada repositório representa uma etapa da minha formação com
 ![Clean Code](https://img.shields.io/badge/Clean_Code-2F4F4F?style=for-the-badge)
 ![Metodologias Ágeis](https://img.shields.io/badge/Metodologias_Ágeis-FF6F00?style=for-the-badge)
 ![Soft Skills](https://img.shields.io/badge/Soft_Skills-FF69B4?style=for-the-badge)
-
-</div>
-
-<br/>
-
-## 📊 Estatísticas
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Giu16&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giu16&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="top langs"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Giu16&hide_border=true&theme=tokyonight" alt="streak"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Giu16&theme=tokyo-night&hide_border=true&custom_title=Atividade%20de%20contribuição" width="98%" alt="activity"/>
-
-</div>
-
-<br/>
-
-## 🏆 Troféus
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Giu16&theme=tokyonight&no-frame=true&column=7&margin-w=8&margin-h=8" alt="trophies"/>
-
-</div>
-
-<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:7C3AED&height=100&section=footer" width="100%"/>
 </div>
