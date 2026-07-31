@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:2563EB&height=150&section=header&animation=fadeIn" width="100%"/>
 
-<h3 align="center">😊 Olá, me chamo Giulia!</h3>
+<h3 align="center">👋 Olá, me chamo Giulia!</h3>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=A78BFA&center=true&width=500&lines=Desenvolvedora+Full+Stack" alt="Desenvolvedora Full Stack"/>
@@ -8,6 +8,10 @@
 
 <p align="center">
   Do front ao back, construindo minha base técnica — processo acima de perfeição.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Dispon%C3%ADvel%20para%20freelance%20%C2%B7%20Full%20Stack-238636?style=for-the-badge" alt="Disponível para freelance"/>
 </p>
 
 <p align="center">
@@ -21,11 +25,13 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,ts,nodejs,express,mysql,mongodb,git,github&theme=dark&perline=6" alt="tecnologias"/>
+<b>💼 Trabalho com</b><br/>
+<img src="https://skillicons.dev/icons?i=html,css,js,git,github&theme=dark" alt="trabalho com"/>
 
 <br/><br/>
 
-<sub><i>Clean Code&nbsp;·&nbsp;Lógica de Programação&nbsp;·&nbsp;Metodologias Ágeis&nbsp;·&nbsp;Soft Skills</i></sub>
+<b>📚 Aprendendo</b><br/>
+<img src="https://skillicons.dev/icons?i=react,ts,nodejs,express,mysql,mongodb&theme=dark&perline=6" alt="aprendendo"/>
 
 </div>
 
