@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:2563EB&height=150&section=header&animation=fadeIn" width="100%"/>
 
-<h3 align="center">👋 Olá, me chamo Giulia!</h3>
+<h3 align="center">😊Olá, me chamo Giulia!</h3>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=A78BFA&center=true&width=500&lines=Desenvolvedora+Full+Stack" alt="Desenvolvedora Full Stack"/>
