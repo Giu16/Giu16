@@ -32,4 +32,15 @@
 
 </div>
 
+---
+
+<p align="center">
+  <b>Aberta a projetos freelance e oportunidades.</b><br/>
+  <sub>Me chama no e-mail ou LinkedIn — respondo rápido.</sub>
+</p>
+
+<p align="center">
+  <sub><i>Cada repositório aqui é uma etapa da minha formação.</i></sub>
+</p>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:7C3AED&height=100&section=footer" width="100%"/>
